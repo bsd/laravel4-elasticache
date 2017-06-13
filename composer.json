@@ -1,9 +1,9 @@
 {
-    "name": "extendr/elasticache",
+    "name": "bsd/laravel4-elasticache",
     "description": "",
     "authors": [
         {
-            "name": "Gilbert F. Sewovoe-Ekoue & BSD Dev team",
+            "name": "BSD Dev team & Gilbert F. Sewovoe-Ekoue",
             "email": "wpd@bluestatedigital.com"
         }
     ],
