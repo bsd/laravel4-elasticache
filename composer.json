@@ -1,0 +1,20 @@
+{
+    "name": "extendr/elasticache",
+    "description": "",
+    "authors": [
+        {
+            "name": "Gilbert F. Sewovoe-Ekoue & BSD Dev team",
+            "email": "wpd@bluestatedigital.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Extendr\\Elasticache": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
