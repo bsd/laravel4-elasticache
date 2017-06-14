@@ -1,4 +1,4 @@
-<?php namespace Extendr\Elasticache;
+<?php namespace BlueStateDigital\Elasticache;
 // namespace Illuminate\Cache;
 use Illuminate\Cache;
 use Memcache;

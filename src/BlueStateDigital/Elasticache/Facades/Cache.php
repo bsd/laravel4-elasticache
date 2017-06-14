@@ -1,4 +1,4 @@
-<?php namespace Extendr\Elasticache\Facades;
+<?php namespace BlueStateDigital\Elasticache\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
